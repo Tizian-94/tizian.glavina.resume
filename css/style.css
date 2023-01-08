@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;900&display=swap');
 
+
+
 :root{
    --bgcolor: #f4f4f4;
    --resume-left-bgc: #fff;
@@ -23,7 +25,9 @@ body{
 	font-size: 14px;
 	color: var(--primary);
 }
-
+.redtext{
+	color: red;
+}
 .wrapper{
 	display: flex;
 	align-items: center;
